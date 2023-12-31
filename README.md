@@ -4,8 +4,6 @@
 
 I'm thrilled to share the completion of my LGMVIP Web Developer Internship task - 2 – building a dynamic user Dashboard! This web application fetches employee data from the ReqRes API and displays it in a user-friendly interface.
 
-**Link :**  https://chaudharyshyam.github.io/LGMVIP-Web-Task-2/ 
-
 # Features
 
 1. Display employees in a grid layout.
