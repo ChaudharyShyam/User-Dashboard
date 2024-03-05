@@ -1,8 +1,6 @@
 ![image](https://github.com/ChaudharyShyam/LGMVIP-Web-Task-2/assets/150513922/580a249e-ba8d-4fc8-a70a-e2b77626fd82)
 
-# LGMVIP-Web-Task-2
-
-I'm thrilled to share the completion of my LGMVIP Web Developer Internship task - 2 – building a dynamic user Dashboard! This web application fetches employee data from the ReqRes API and displays it in a user-friendly interface.
+building a dynamic user Dashboard! This web application fetches employee data from the ReqRes API and displays it in a user-friendly interface.
 
 # Features
 
@@ -17,9 +15,6 @@ I'm thrilled to share the completion of my LGMVIP Web Developer Internship task 
 
 I had the opportunity to work with cutting-edge technologies like React, Axios, and Styled Components. This project not only enhanced my technical skills but also provided hands-on experience in API integration and front-end development.
 
-LGMVIP Web Developer Internship
-
-Task : Beginner Level - Task 2
 
 Languages : HTML, CSS & JavaScript and React.js
 
